@@ -25,6 +25,7 @@
   <img src="https://skillicons.dev/icons?i=python" height="30" />
   <img src="https://skillicons.dev/icons?i=typescript" height="30" />
   <img src="https://skillicons.dev/icons?i=java" height="30" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="30" />
 </p>
 
 ---
@@ -65,7 +66,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="30" />
   <img src="https://skillicons.dev/icons?i=html" height="30" />
   <img src="https://skillicons.dev/icons?i=css" height="30" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="30" />
+  <img src="https://skillicons.dev/icons?i=tvitest" height="30" />
 </p>
 
 ---
