@@ -66,7 +66,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="30" />
   <img src="https://skillicons.dev/icons?i=html" height="30" />
   <img src="https://skillicons.dev/icons?i=css" height="30" />
-  <img src="https://skillicons.dev/icons?i=tvitest" height="30" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="30" />
 </p>
 
 ---
