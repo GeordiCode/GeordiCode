@@ -93,5 +93,5 @@
 📫 **Conecta conmigo:**
 - ✉️ jordi.ledesma.tech@gmail.com  
 - 📱 +57 323 297 7886  
-- [Portafolio](https://github.com/JordiLedesmaArboleda?tab=repositories)
+- [Portafolio](https://github.com/GeordiCode?tab=repositories)
 
