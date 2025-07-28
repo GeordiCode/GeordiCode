@@ -2,16 +2,13 @@
 
 <img align="right" alt="DevOps Working Setup" height="200px" src="https://github.com/GeordiCode/GeordiCode/blob/main/abstract-background2.png?raw=true" />
 
-## 💻 I'm a Software Developer specialized in Backend & DevOps
+## 💻 I'm a Software Developer specialized in Backend & DevOps  
+_Building resilient systems with scalable thinking and a DevOps mindset._
 
 - ⚙️ I've worked with companies such as BlueAras (DevOps), Open Systems (Backend), and ContentoLatam (Web).
-
 - 🔧 Experienced in backend development, infrastructure automation, and application deployment.
-
 - 🚀 Passionate about building scalable, secure, and cloud-native solutions.
-
 - 📚 Currently diving deeper into software architecture and modern DevOps practices.
-
 - 💡 I love learning, creating intelligent solutions, and sharing knowledge.
 
 ---
@@ -19,13 +16,11 @@
 ## 🛠️ Technical Skills
 
 ### 🤝 Collaboration Tools
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,discord" height="30"/>
 </p>
 
 ### 👨‍💻 Programming Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=go" height="30" />
   <img src="https://skillicons.dev/icons?i=python" height="30" />
@@ -37,7 +32,6 @@
 ---
 
 ### 🧩 Backend Technologies
-
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring" height="30" />
   <img src="https://img.shields.io/badge/Fiber-00ADD8?style=flat&logo=go&logoColor=white" height="25" />
@@ -46,7 +40,6 @@
 ---
 
 ### 🗄️ Databases
-
 <p>
   <img src="https://skillicons.dev/icons?i=postgres" height="30" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" />
@@ -58,7 +51,6 @@
 ---
 
 ### 🧠 AI & Machine Learning Tools
-
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" height="30" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="30" />
@@ -68,7 +60,6 @@
 ---
 
 ### 🎨 Frontend Technologies
-
 <p>
   <img src="https://skillicons.dev/icons?i=vue" height="30" />
   <img src="https://skillicons.dev/icons?i=react" height="30" />
@@ -82,7 +73,6 @@
 ---
 
 ### ☁️ Cloud & DevOps Technologies
-
 <p>
   <img src="https://skillicons.dev/icons?i=aws" height="30" />
   <img src="https://skillicons.dev/icons?i=azure" height="30" />
@@ -97,15 +87,35 @@
 
 ---
 
-📌 **Current Areas of Interest:**
+## 🔎 Current Areas of Interest
 
 - Distributed systems  
 - Observability (logs, metrics, traces)  
 - Applying Machine Learning in real-world projects  
 - Infrastructure as Code (IaC) and automation  
 
-📫 **Get in Touch:**
+---
 
-- ✉️ jordi.ledesma.tech@gmail.com  
-- 📱 +57 323 297 7886  
-- [Portfolio](https://github.com/GeordiCode?tab=repositories)
+## 🚀 Featured Projects
+
+Here are some of the projects I’m most proud of:
+
+- **[AutoScaleMe](https://github.com/GeordiCode/AutoScaleMe)** – Smart autoscaling engine using resource prediction and metrics tracing.
+- **[IaC-Deploy-Toolkit](https://github.com/GeordiCode/IaC-Deploy-Toolkit)** – Infrastructure automation CLI for deploying cloud environments using Terraform & Python.
+- **[DevOps Dash](https://github.com/GeordiCode/DevOps-Dash)** – Real-time DevOps dashboard for pipelines, alerts, and metrics.
+- **[FiberStarter](https://github.com/GeordiCode/FiberStarter)** – A Go backend boilerplate with Fiber, PostgreSQL, Docker, and CI/CD integration.
+
+> 🧩 See [all my repositories here →](https://github.com/GeordiCode?tab=repositories)
+
+---
+
+## 📫 Get in Touch
+
+- 📧 **Email:** jordi.ledesma.tech@gmail.com  
+- 📱 **Phone (Colombia):** +57 323 297 7886  
+- 🌐 **Portfolio:** [github.com/GeordiCode](https://github.com/GeordiCode?tab=repositories)  
+- 💼 **LinkedIn:** [linkedin.com/in/jordi-ledesma](https://www.linkedin.com/in/jordi-ledesma)
+
+---
+
+> *“Team trust is like infrastructure — if I expect commitment, I deliver mine from the first deploy.”*
