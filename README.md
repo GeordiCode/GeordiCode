@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/gemini-prod/images/c291b5c2-f94a-441d-b5b6-764952086c8d.jpeg" alt="Banner abstracto de tecnología" width="100%"/>
+ <img align="right" alt="DevOps Working Setup" height="200px" src="https://github.com/GeordiCode/GeordiCode/blob/main/banner-github.jpeg?raw=true" /> 
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Jordi Ledesma</h1>
