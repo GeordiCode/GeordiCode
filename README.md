@@ -81,6 +81,7 @@
   <img src="https://skillicons.dev/icons?i=linux" height="30" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" />
   <img src="https://skillicons.dev/icons?i=vercel" height="30" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" />
 </p>
 
 ---
