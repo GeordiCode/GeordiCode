@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Jordi Ledesma!](https://github.com/GeordiCode/)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://github.com/GeordiCode/fondo.png" />
 
 ## 💻 I'm a Software Developer focused on Backend & DevOps
 
