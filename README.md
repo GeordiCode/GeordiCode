@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm [Jordi Ledesma!](https://github.com/GeordiCode/)
 
 
-<img align="right" alt="DevOps Working Setup" height="200px" src="https://github.com/GeordiCode/GeordiCode/blob/main/banner-github.jpeg?raw=true" />
+<img align="right" alt="DevOps Working Setup" height="200px" src="https://github.com/GeordiCode/GeordiCode/blob/main/fondo.png?raw=true" />
 
 
 ## 💻 I'm a Software Developer focused on Backend & DevOps
