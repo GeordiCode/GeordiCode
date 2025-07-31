@@ -100,12 +100,36 @@ _Building resilient systems with scalable thinking and a DevOps mindset._
 
 Here are some of the projects I’m most proud of:
 
-- **[AutoScaleMe](https://github.com/GeordiCode/AutoScaleMe)** – Smart autoscaling engine using resource prediction and metrics tracing.
-- **[IaC-Deploy-Toolkit](https://github.com/GeordiCode/IaC-Deploy-Toolkit)** – Infrastructure automation CLI for deploying cloud environments using Terraform & Python.
-- **[DevOps Dash](https://github.com/GeordiCode/DevOps-Dash)** – Real-time DevOps dashboard for pipelines, alerts, and metrics.
-- **[FiberStarter](https://github.com/GeordiCode/FiberStarter)** – A Go backend boilerplate with Fiber, PostgreSQL, Docker, and CI/CD integration.
+### 🧠 [SmartWear-AI Backend](https://github.com/GeordiCode/SmartWear-AI-backend)
+
+A backend powering a clothing recommendation system based on users' emotions. It uses a hybrid model combining heuristics and a custom neural-based Multi-Armed Bandit (MAB) system.
+
+- Built with **FastAPI**, **PyTorch**, and **Scikit-learn**
+- Real-time learning with user feedback (online training)
+- Endpoints for emotion-based recommendations and feedback ingestion
+- Model evaluation using AUC, ROC, K-Fold validation, and noisy datasets
+- Neural Bandit model with LayerNorm, Dropout, and ReLU layers
+
+> 📄 [View repo →](https://github.com/GeordiCode/SmartWear-AI-backend)
+
+---
+
+### 👕 [SmartWear-AI Frontend](https://github.com/Dife2703/ProyectoGradoRopa)
+
+Frontend of a web app that recommends clothes based on emotional input using webcam detection, behavioral logic, and a Tinder-like experience.
+
+- Built with **React + Vite**, styled with **Tailwind CSS**
+- Integrated with **Firebase** for auth and Firestore storage
+- Reads clothing data from a CSV with category & gender filters
+- Emotion-based recommendations using camera-based emotion capture
+- Visual feedback animations and user satisfaction flow
+
+> 📄 [View repo →](https://github.com/Dife2703/ProyectoGradoRopa)
+
+---
 
 > 🧩 See [all my repositories here →](https://github.com/GeordiCode?tab=repositories)
+
 
 ---
 
