@@ -5,7 +5,7 @@
 ## 💻 I'm a Software Developer specialized in Backend & DevOps  
 _Building resilient systems with scalable thinking and a DevOps mindset._
 
-- ⚙️ I've worked with companies such as BlueAras (DevOps), Open Systems (Backend), and ContentoLatam (Web).
+- ⚙️ I’ve worked across DevOps, Backend, and Web development, contributing to secure, scalable, and user-focused solutions.
 - 🔧 Experienced in backend development, infrastructure automation, and application deployment.
 - 🚀 Passionate about building scalable, secure, and cloud-native solutions.
 - 📚 Currently diving deeper into software architecture and modern DevOps practices.
