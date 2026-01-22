@@ -42,19 +42,17 @@
 
 ## 🚀 Proyectos Destacados (Casos de Éxito)
 
-### 🧠 [SmartWear-AI Backend](https://github.com/GeordiCode/SmartWear-AI-backend)
-**Sistema de recomendación inteligente basado en emociones.**
+### 🧠 [Arquitectura de Recomendación Basada en IA: SmartWear-AI Backend](https://github.com/GeordiCode/SmartWear-AI-backend)
 * **Arquitectura de IA:** Implementación de un modelo híbrido avanzado utilizando **FastAPI** para el servicio y **PyTorch** para el núcleo de redes neuronales.
 * **Aprendizaje Continuo:** Diseño de un sistema de entrenamiento en tiempo real (Online Training) que ajusta las recomendaciones basándose en la retroalimentación inmediata del usuario.
 * **Validación de Datos:** Ejecución de pruebas rigurosas mediante métricas AUC, ROC y validación cruzada (K-Fold) para asegurar la precisión del modelo en entornos ruidosos.
 
-### 👕 [SmartWear-AI Frontend](https://github.com/Dife2703/ProyectoGradoRopa)
-**Experiencia de usuario inmersiva para selección de moda.**
+### 👕 [Ecosistema de Interacción Biométrica & UX: SmartWear-AI Frontend](https://github.com/Dife2703/ProyectoGradoRopa)
 * **Desarrollo Moderno:** Construcción de una interfaz fluida y responsiva utilizando **React + Vite**, estilizada con **Tailwind CSS** para un diseño minimalista y profesional.
 * **Interacción Biométrica:** Integración de captura de emociones vía webcam mediante lógica de comportamiento para personalizar la experiencia de compra en tiempo real.
 * **Gestión de Datos:** Implementación de flujos de autenticación y almacenamiento persistente utilizando la infraestructura de **Firebase**.
 
-### 📊 [Módulo de Indicadores Ambientales](https://github.com/GeordiCode)
+### 📊 [Sistemas de Inteligencia de Negocios para Sostenibilidad: Módulo Ambiental](https://github.com/GeordiCode)
 **Consultoría para la medición de Huella de Carbono, reducciones y circularidad.**
 * **Business Intelligence:** Diseño y desarrollo de un motor de indicadores ambientales capaz de procesar datos complejos para la medición de sostenibilidad.
 * **Infraestructura Backend:** Implementación de una API robusta con **FastAPI** y una base de datos optimizada en **PostgreSQL** para el manejo eficiente de grandes volúmenes de información.
