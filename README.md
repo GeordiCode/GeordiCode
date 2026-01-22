@@ -1,16 +1,16 @@
 # ¡Hola! Soy Jordi Ledesma 👋
 
 ## 💻 Ingeniero de Software especializado en Backend & DevOps
-[cite_start]*Construyendo sistemas resilientes con pensamiento escalable y mentalidad de eficiencia operativa[cite: 5, 6].*
+*Construyendo sistemas resilientes con pensamiento escalable y mentalidad de eficiencia operativa.*
 
 ---
 
 ## 👨‍💻 Un Enfoque Pragmático de la Tecnología
-[cite_start]"Utilizo la tecnología para resolver problemas de negocio, no solo para escribir código[cite: 6]."
+"Utilizo la tecnología para resolver problemas de negocio, no solo para escribir código."
 
-- [cite_start]⚙️ **Experiencia Multidisciplinar:** Trayectoria sólida en DevOps, Backend y desarrollo Web, enfocada en soluciones seguras y escalables[cite: 21, 25, 29].
-- [cite_start]🔧 **Infraestructura y Automatización:** Experto en automatización de despliegues y gestión de infraestructura crítica[cite: 31, 32].
-- [cite_start]🚀 **Visión de Producto:** Apasionado por crear soluciones que priorizan la experiencia del usuario y los objetivos de negocio[cite: 27, 28].
+- ⚙️ **Experiencia Multidisciplinar:** Trayectoria sólida en DevOps, Backend y desarrollo Web, enfocada en soluciones seguras y escalables.
+- 🔧 **Infraestructura y Automatización:** Experto en automatización de despliegues y gestión de infraestructura crítica.
+- 🚀 **Visión de Producto:** Apasionado por crear soluciones que priorizan la experiencia del usuario y los objetivos de negocio.
 - 📚 **Evolución Constante:** Profundizando en arquitectura de software avanzada y prácticas modernas de observabilidad.
 - 💡 **Filosofía:** Me motiva crear soluciones inteligentes que simplifiquen la complejidad técnica.
 
@@ -44,8 +44,8 @@
 
 ### 🧠 [SmartWear-AI Backend](https://github.com/GeordiCode/SmartWear-AI-backend)
 **Sistema de recomendación inteligente basado en emociones.**
-* Implementación de un modelo híbrido con **FastAPI** y redes neuronales.
-* Aprendizaje en tiempo real con retroalimentación del usuario.
+* Implementación de un modelo híbrido con **FastAPI** y redes neuronales (**PyTorch**).
+* Aprendizaje en tiempo real con retroalimentación del usuario (Online Training).
 * Evaluación de modelos mediante AUC, ROC y validación K-Fold.
 
 ### 👕 [SmartWear-AI Frontend](https://github.com/Dife2703/ProyectoGradoRopa)
@@ -54,17 +54,17 @@
 * Captura de emociones vía webcam e integración con **Firebase** para gestión de datos.
 
 ### 📊 [Módulo de Indicadores Ambientales](https://github.com/GeordiCode)
-[cite_start]**Consultoría para la medición de Huella de Carbono[cite: 23].**
-* [cite_start]Desarrollo de dashboards de **Business Intelligence** para la toma de decisiones estratégicas[cite: 24].
+**Consultoría para la medición de Huella de Carbono.**
+* Desarrollo de dashboards de **Business Intelligence** para la toma de decisiones estratégicas.
 
 ---
 
 ## 📫 Conectemos
 
 - 💼 **LinkedIn:** [linkedin.com/in/jordi-ledesma](https://www.linkedin.com/in/jordi-ledesma)
-- [cite_start]📧 **Email:** jordi.ledesma.tech@gmail.com [cite: 8]
-- [cite_start]📱 **WhatsApp:** +57 323 297 7886 [cite: 7]
-- [cite_start]📍 **Ubicación:** Valle del Cauca, Colombia [cite: 10]
+- 📧 **Email:** jordi.ledesma.tech@gmail.com
+- 📱 **WhatsApp:** +57 323 297 7886
+- 📍 **Ubicación:** Valle del Cauca, Colombia
 
 ---
 
