@@ -1,18 +1,16 @@
 # ¡Hola! Soy Jordi Ledesma 👋
 
-<img align="right" alt="Setup Profesional" height="200px" src="https://github.com/GeordiCode/GeordiCode/blob/main/abstract-background2.png?raw=true" />
-
 ## 💻 Ingeniero de Software especializado en Backend & DevOps
-[cite_start]*Construyendo sistemas resilientes con pensamiento escalable y mentalidad de eficiencia operativa.* [cite: 5, 6]
+*Construyendo sistemas resilientes con pensamiento escalable y mentalidad de eficiencia operativa.*
 
 ---
 
 ## 👨‍💻 Un Enfoque Pragmático de la Tecnología
-[cite_start]"Utilizo la tecnología para resolver problemas de negocio, no solo para escribir código." 
+"Utilizo la tecnología para resolver problemas de negocio, no solo para escribir código."
 
-- [cite_start]⚙️ **Experiencia Multidisciplinar:** Trayectoria sólida en DevOps, Backend y desarrollo Web, enfocada en soluciones seguras y escalables. [cite: 21, 25, 29]
-- [cite_start]🔧 **Infraestructura y Automatización:** Experto en automatización de despliegues y gestión de infraestructura crítica. [cite: 31, 32]
-- [cite_start]🚀 **Visión de Producto:** Apasionado por crear soluciones nativas en la nube que priorizan la experiencia del usuario y los objetivos de negocio. [cite: 27, 28]
+- ⚙️ **Experiencia Multidisciplinar:** Trayectoria sólida en DevOps, Backend y desarrollo Web, enfocada en soluciones seguras y escalables.
+- 🔧 **Infraestructura y Automatización:** Experto en automatización de despliegues y gestión de infraestructura crítica mediante contenedores y orquestación.
+- 🚀 **Visión de Producto:** Apasionado por crear soluciones que priorizan la experiencia del usuario y los objetivos estratégicos de negocio.
 - 📚 **Evolución Constante:** Profundizando en arquitectura de software avanzada y prácticas modernas de observabilidad.
 - 💡 **Filosofía:** Me motiva crear soluciones inteligentes que simplifiquen la complejidad técnica.
 
