@@ -1,145 +1,73 @@
-### Hi there 👋 I'm [Jordi Ledesma!](https://github.com/GeordiCode/)
+# ¡Hola! Soy Jordi Ledesma 👋
 
-<img align="right" alt="DevOps Working Setup" height="200px" src="https://github.com/GeordiCode/GeordiCode/blob/main/abstract-background2.png?raw=true" />
+<img align="right" alt="Setup Profesional" height="200px" src="https://github.com/GeordiCode/GeordiCode/blob/main/abstract-background2.png?raw=true" />
 
-## 💻 I'm a Software Developer specialized in Backend & DevOps  
-_Building resilient systems with scalable thinking and a DevOps mindset._
-
-- ⚙️ I’ve worked across DevOps, Backend, and Web development, contributing to secure, scalable, and user-focused solutions.
-- 🔧 Experienced in backend development, infrastructure automation, and application deployment.
-- 🚀 Passionate about building scalable, secure, and cloud-native solutions.
-- 📚 Currently diving deeper into software architecture and modern DevOps practices.
-- 💡 I love learning, creating intelligent solutions, and sharing knowledge.
+## 💻 Ingeniero de Software especializado en Backend & DevOps
+[cite_start]*Construyendo sistemas resilientes con pensamiento escalable y mentalidad de eficiencia operativa.* [cite: 5, 6]
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💻 Un Enfoque Pragmático de la Tecnología
+[cite_start]"Utilizo la tecnología para resolver problemas de negocio, no solo para escribir código." 
 
-### 🤝 Collaboration Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,discord" height="30"/>
-</p>
-
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=go" height="30" />
-  <img src="https://skillicons.dev/icons?i=python" height="30" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="30" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="30" />
-</p>
+- [cite_start]⚙️ **Experiencia Multidisciplinar:** Trayectoria sólida en DevOps, Backend y desarrollo Web, enfocada en soluciones seguras y escalables. [cite: 21, 25, 29]
+- [cite_start]🔧 **Infraestructura y Automatización:** Experto en automatización de despliegues y gestión de infraestructura crítica. [cite: 31, 32]
+- [cite_start]🚀 **Visión de Producto:** Apasionado por crear soluciones nativas en la nube que priorizan la experiencia del usuario y los objetivos de negocio. [cite: 27, 28]
+- 📚 **Evolución Constante:** Profundizando en arquitectura de software avanzada y prácticas modernas de observabilidad.
+- 💡 **Filosofía:** Me motiva crear soluciones inteligentes que simplifiquen la complejidad técnica.
 
 ---
 
-### 🧩 Backend Technologies
+## 🛠️ Stack Tecnológico
+
+### 👨‍💻 Lenguajes de Programación
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring" height="30" />
-  <img src="https://img.shields.io/badge/Fiber-00ADD8?style=flat&logo=go&logoColor=white" height="25" />
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,java,javascript,cpp,cs" height="35" />
 </p>
 
----
-
-### 🗄️ Databases
+### 🧩 Backend & Datos
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" />
-  <img src="https://skillicons.dev/icons?i=redis" height="30" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,postgres,mysql,mongodb,redis" height="35" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,nginx,githubactions,linux,bash" height="35" />
+</p>
+
+### 🎨 Frontend & UX/UI
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,figma,tailwind,html,css" height="35" />
 </p>
 
 ---
 
-### 🧠 AI & Machine Learning Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="30" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="30" />
-</p>
-
----
-
-### 🎨 Frontend Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=vue" height="30" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" />
-  <img src="https://skillicons.dev/icons?i=angular" height="30" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" />
-  <img src="https://skillicons.dev/icons?i=vitest" height="30" />
-</p>
-
----
-
-### ☁️ Cloud & DevOps Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" height="30" />
-  <img src="https://skillicons.dev/icons?i=azure" height="30" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="30" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="30" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="30" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" />
-</p>
-
----
-
-## 🔎 Current Areas of Interest
-
-- Distributed systems  
-- Observability (logs, metrics, traces)  
-- Applying Machine Learning in real-world projects  
-- Infrastructure as Code (IaC) and automation  
-
----
-
-## 🚀 Featured Projects
-
-Here are some of the projects I’m most proud of:
+## 🚀 Proyectos Destacados (Casos de Éxito)
 
 ### 🧠 [SmartWear-AI Backend](https://github.com/GeordiCode/SmartWear-AI-backend)
-
-A backend powering a clothing recommendation system based on users' emotions. It uses a hybrid model combining heuristics and a custom neural-based Multi-Armed Bandit (MAB) system.
-
-- Built with **FastAPI**, **PyTorch**, and **Scikit-learn**
-- Real-time learning with user feedback (online training)
-- Endpoints for emotion-based recommendations and feedback ingestion
-- Model evaluation using AUC, ROC, K-Fold validation, and noisy datasets
-- Neural Bandit model with LayerNorm, Dropout, and ReLU layers
-
-> 📄 [View repo →](https://github.com/GeordiCode/SmartWear-AI-backend)
-
----
+**Sistema de recomendación inteligente basado en emociones.**
+* Implementación de un modelo híbrido con **FastAPI** y redes neuronales (**PyTorch**).
+* Aprendizaje en tiempo real con retroalimentación del usuario (Online Training).
+* Evaluación de modelos mediante AUC, ROC y validación K-Fold.
 
 ### 👕 [SmartWear-AI Frontend](https://github.com/Dife2703/ProyectoGradoRopa)
+**Experiencia de usuario inmersiva para selección de moda.**
+* Interfaz construida con **React + Vite** y **Tailwind CSS**.
+* Captura de emociones vía webcam e integración con **Firebase** para gestión de datos.
 
-Frontend of a web app that recommends clothes based on emotional input using webcam detection, behavioral logic, and a Tinder-like experience.
-
-- Built with **React + Vite**, styled with **Tailwind CSS**
-- Integrated with **Firebase** for auth and Firestore storage
-- Reads clothing data from a CSV with category & gender filters
-- Emotion-based recommendations using camera-based emotion capture
-- Visual feedback animations and user satisfaction flow
-
-> 📄 [View repo →](https://github.com/Dife2703/ProyectoGradoRopa)
+### 📊 [Módulo de Indicadores Ambientales](https://github.com/GeordiCode)
+[cite_start]**Consultoría para la medición de Huella de Carbono.** [cite: 23]
+* [cite_start]Desarrollo de dashboards de **Business Intelligence** para la toma de decisiones estratégicas. [cite: 24]
 
 ---
 
-> 🧩 See [all my repositories here →](https://github.com/GeordiCode?tab=repositories)
+## 📫 Conectemos
 
-
----
-
-## 📫 Get in Touch
-
-- 📧 **Email:** jordi.ledesma.tech@gmail.com  
-- 📱 **Phone (Colombia):** +57 323 297 7886  
-- 🌐 **Portfolio:** [github.com/GeordiCode](https://github.com/GeordiCode?tab=repositories)  
 - 💼 **LinkedIn:** [linkedin.com/in/jordi-ledesma](https://www.linkedin.com/in/jordi-ledesma)
+- [cite_start]📧 **Email:** jordi.ledesma.tech@gmail.com [cite: 8]
+- [cite_start]📱 **WhatsApp:** +57 323 297 7886 [cite: 7]
+- [cite_start]📍 **Ubicación:** Valle del Cauca, Colombia [cite: 10]
 
 ---
 
-> *“Team trust is like infrastructure — if I expect commitment, I deliver mine from the first deploy.”*
+> *“La confianza del equipo es como la infraestructura: si espero compromiso, entrego el mío desde el primer deploy.”*
