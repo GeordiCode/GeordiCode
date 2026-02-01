@@ -62,7 +62,7 @@
 
 ## 📫 Conectemos
 
-- 💼 **LinkedIn:** [linkedin.com/in/jordi-ledesma](https://www.linkedin.com/in/jordi-ledesma)
+- 💼 **LinkedIn:** [linkedin.com/in/jordi-ledesma](https://www.linkedin.com/in/jordiledesma/)
 - 📧 **Email:** jordi.ledesma.tech@gmail.com
 - 📱 **WhatsApp:** +57 323 297 7886
 - 📍 **Ubicación:** Valle del Cauca, Colombia
