@@ -48,52 +48,22 @@
 * **Persistencia y Ciclo de Datos:** Integración de **PostgreSQL** con automatización de esquemas relacionales mediante **Flyway** para el versionamiento seguro de bases de datos. Manejo de auditoría mediante *Triggers* de estado y *Stored Procedures* transaccionales.
 * **Integración y Resiliencia Asíncrona:** Implementación de persistencia de archivos masivos (facturas) mediante una capa compatible con **S3 (MinIO)**. Sistema de notificaciones asíncronas basado en eventos de dominio para desacoplar las llamadas HTTP externas de la base transaccional, respaldado por logs de reintentos y auditoría de errores (`integration_error_log`).
 
-#### 🖥️ Galería Interactiva del Sistema (Frontend)
+#### 🖥️ Flujo de Operación e Interfaz de Usuario (Angular Frontend)
 
-<details>
-  <summary>🌐 Ver Pantallas de FalconPay (Clic para desplegar)</summary>
-  <br>
+| 🌐 1. Landing Page & Acceso Seguro | 📊 2. Dashboard Analítico de Control |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/c2d66001-8bfb-4fbf-a6b4-621f048a0524" width="450px" alt="FalconPay Landing"/> | <img src="URL_DE_DASHBOARD" width="450px" alt="FalconPay Dashboard"/> |
+| *Página de aterrizaje con control de acceso y autenticación segura.* | *Métricas financieras, estados de transacciones y KPIs en tiempo real.* |
 
-  <blockquote>
-    <strong>💡 Instrucciones:</strong> Despliega cada sección para auditar los diferentes módulos de la interfaz de usuario construida en Angular.
-  </blockquote>
+| 📋 3. Consola Central de Órdenes | 📝 4. Formulario de Creación y Carga Asíncrona |
+| :---: | :---: |
+| <img src="URL_DE_ORDERS" width="450px" alt="FalconPay Orders"/> | <img src="URL_DE_NEWORDER" width="450px" alt="FalconPay New Order"/> |
+| *Módulo de operaciones con filtros dinámicos por estado, fecha y creador.* | *Flujo de ingreso compatible con almacenamiento MinIO/S3 para adjuntar facturas.* |
 
-  <details>
-    <summary>🔹 1. Landing Page & Acceso Seguro</summary>
-    <p align="center">
-      <img src="https://github.com/user-attachments/assets/c2d66001-8bfb-4fbf-a6b4-621f048a0524" width="800px" alt="FalconPay Landing"/>
-    </p>
-  </details>
-
-  <details>
-    <summary>🔹 2. Dashboard Analítico Principal (Métricas & KPIs)</summary>
-    <p align="center">
-      <img src="TU_URL_DE_DASHBOARD_JPEG" width="800px" alt="FalconPay Dashboard"/>
-    </p>
-  </details>
-
-  <details>
-    <summary>🔹 3. Módulo de Gestión y Filtros de Órdenes</summary>
-    <p align="center">
-      <img src="TU_URL_DE_ORDERS_JPEG" width="800px" alt="FalconPay Orders List"/>
-    </p>
-  </details>
-
-  <details>
-    <summary>🔹 4. Creación de Órdenes y Carga S3 de Facturas</summary>
-    <p align="center">
-      <img src="TU_URL_DE_NEWORDER_JPEG" width="800px" alt="FalconPay New Order"/>
-    </p>
-  </details>
-
-  <details>
-    <summary>🔹 5. Control de Usuarios y Roles Corporativos</summary>
-    <p align="center">
-      <img src="TU_URL_DE_USERS_JPEG" width="800px" alt="FalconPay User Management"/>
-    </p>
-  </details>
-
-</details>
+| 🔍 5. Auditoría y Edición de Transacciones | 👥 6. Gestión de Usuarios y Permisos |
+| :---: | :---: |
+| <img src="URL_DE_EDITORDER_O_FACTURA" width="450px" alt="FalconPay Detail"/> | <img src="URL_DE_USERS" width="450px" alt="FalconPay Users"/> |
+| *Capa de visualización de detalles, logs de reintentos y estados de auditoría.* | *Panel de administración y control de roles para la seguridad del sistema.* |
 
 ---
 
