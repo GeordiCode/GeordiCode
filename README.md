@@ -1,16 +1,18 @@
 # ¡Hola! Soy Jordi Ledesma 👋
 
-## 💻 Ingeniero de Software especializado en Backend, Sistemas Distribuidos & DevOps
-*Construyendo sistemas de alta disponibilidad con pensamiento arquitectónico, automatización y eficiencia operativa.*
+## 💻 Ingeniero de Software especializado en Backend & DevOps
+*Construyendo sistemas resilientes con pensamiento escalable y mentalidad de eficiencia operativa.*
 
 ---
 
 ## 👨‍💻 Un Enfoque Pragmático de la Tecnología
-"Utilizo la ingeniería para resolver problemas de negocio complejos, garantizando estabilidad, escalabilidad y resiliencia en producción."
+"Utilizo la tecnología para resolver problemas de negocio, no solo para escribir código."
 
-- ⚙️ **Sistemas & Backend:** Especializado en el diseño de microservicios robustos y arquitecturas orientadas a eventos utilizando **Go** y **Java (Spring Boot)**.
-- 🔧 **Infraestructura como Código & Contenedores:** Experiencia práctica empaquetando servicios con **Docker**, orquestando entornos distribuidos en **Kubernetes** y automatizando aprovisionamientos reproducibles con **Terraform**.
-- 🚀 **Cultura de Fiabilidad (SRE):** Enfoque nativo en la observabilidad (Métricas, Logs, Telemetría) y desacoplamiento de servicios mediante tareas asíncronas para mitigar puntos únicos de fallo (SPOF).
+- ⚙️ **Experiencia Multidisciplinar:** Trayectoria sólida en DevOps, Backend y desarrollo Web, enfocada en soluciones seguras y escalables.
+- 🔧 **Infraestructura y Automatización:** Experto en automatización de despliegues y gestión de infraestructura crítica.
+- 🚀 **Visión de Producto:** Apasionado por crear soluciones que priorizan la experiencia del usuario y los objetivos de negocio.
+- 📚 **Evolución Constante:** Profundizando en arquitectura de software avanzada y prácticas modernas de observabilidad.
+- 💡 **Filosofía:** Me motiva crear soluciones inteligentes que simplifiquen la complejidad técnica.
 
 ---
 
@@ -18,17 +20,22 @@
 
 ### 👨‍💻 Lenguajes de Programación
 <p>
-  <img src="https://skillicons.dev/icons?i=go,java,python,typescript,bash,javascript,cpp" height="40" />
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,java,javascript,cpp,cs" height="35" />
 </p>
 
-### 🧩 Backend, Datos & Mensajería
+### 🧩 Backend & Datos
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,postgres,mysql,mongodb,redis" height="40" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,postgres,mysql,mongodb,redis" height="35" />
 </p>
 
-### ☁️ Cloud & DevOps (Infraestructura)
+### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,githubactions,linux" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,nginx,githubactions,linux,bash" height="35" />
+</p>
+
+### 🎨 Frontend & UX/UI
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,figma,tailwind,html,css" height="35" />
 </p>
 
 ---
