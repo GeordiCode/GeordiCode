@@ -48,17 +48,26 @@
 * **Persistencia y Ciclo de Datos:** Integración de **PostgreSQL** con automatización de esquemas relacionales mediante **Flyway** para el versionamiento seguro de bases de datos. Manejo de auditoría mediante *Triggers* de estado y *Stored Procedures* transaccionales.
 * **Integración y Resiliencia Asíncrona:** Implementación de persistencia de archivos masivos (facturas) mediante una capa compatible con **S3 (MinIO)**. Sistema de notificaciones asíncronas basado en eventos de dominio para desacoplar las llamadas HTTP externas de la base transaccional, respaldado por logs de reintentos y auditoría de errores (`integration_error_log`).
 
-#### 🖥️ Interfaz de Usuario & Dashboard Transaccional
-| Vista del Panel de Control (KPIs) | Gestión de Órdenes y Facturas |
+#### 🖥️ Flujo de Operación e Interfaz de Usuario (Angular Frontend)
+
+| 🌐 1. Landing Page de Cara al Cliente | 📊 2. Dashboard Analítico de Control |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/c2d66001-8bfb-4fbf-a6b4-621f048a0524" width="450px" alt="FalconPay Dashboard"/> | <img src="URL_DE_TU_SEGUNDA_IMAGEN_DE_FALCONPAY" width="450px" alt="FalconPay Orders"/> |
-| *Dashboard interactivo con métricas financieras y estados de pago en Angular.* | *Módulo de operaciones: creación, filtros dinámicos y visor de facturas.* |
+| <img src="https://github.com/user-attachments/assets/c2d66001-8bfb-4fbf-a6b4-621f048a0524" width="450px" alt="FalconPay Landing"/> | <img src="TU_URL_DE_DASHBOARD_JPEG" width="450px" alt="FalconPay Dashboard"/> |
+| *Página de aterrizaje con control de acceso y autenticación segura.* | *Métricas financieras, estados de transacciones y KPIs en tiempo real.* |
+
+| 📋 3. Consola Centralizado de Órdenes | 📝 4. Creación y Carga Asíncrona (S3) |
+| :---: | :---: |
+| <img src="TU_URL_DE_ORDERS_JPEG" width="450px" alt="FalconPay Orders"/> | <img src="TU_URL_DE_NEWORDER_JPEG" width="450px" alt="FalconPay New Order"/> |
+| *Módulo de operaciones con filtros dinámicos por estado y creador.* | *Formulario de ingesta compatible con almacenamiento MinIO/S3 para facturas.* |
+
+---
 
 ### 🧠 [SmartWear AI | Infraestructura Backend de Cómputo e Inteligencia Artificial](https://github.com/GeordiCode/SmartWear-AI-backend)
 *Infraestructura backend de alto rendimiento para el procesamiento de modelos matemáticos y redes neuronales en tiempo real (Tesis de Grado - Calificación: 4.8/5.0).*
 * **Arquitectura de Inferencia Concurrente:** Creación de una API REST de baja latencia utilizando **FastAPI (Python)**, optimizada para servir un sistema híbrido de aprendizaje por refuerzo (*Multi-Armed Bandit*).
 * **Pipelines de Datos Estables:** Diseño de flujos de entrenamiento online en tiempo real desacoplados utilizando **PyTorch**, asegurando que la retroalimentación continua del usuario (*feedback loop*) altere los pesos del modelo sin bloquear los hilos principales de ejecución.
 * **Rigurosidad y Determinismo:** Implementación de scripts de validación con análisis estadístico profundo (curvas ROC, AUC, validación cruzada K-Fold) para medir el comportamiento predictivo bajo condiciones de estrés y ruidos de datos (hasta el 30%).
+  
 ---
 
 ### 📊 EcoDash & Epicoo | Motor de Inteligencia Ambiental corporativo (Caso de Éxito Empresarial)
