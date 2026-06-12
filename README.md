@@ -57,12 +57,12 @@
 
 | 📋 3. Consola Central de Órdenes | 📝 4. Formulario de Creación y Carga Asíncrona |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/e5e17f43-272b-4655-b0e0-0d7af3800377" width="450px" alt="FalconPay Orders"/> | <img src="URL_DE_NEWORDER" width="450px" alt="FalconPay New Order"/> |
+| <img src="https://github.com/user-attachments/assets/e5e17f43-272b-4655-b0e0-0d7af3800377" width="450px" alt="FalconPay Orders"/> | <img src="https://github.com/user-attachments/assets/278e27c1-c573-4031-9a2f-f36953d08210" width="450px" alt="FalconPay New Order"/> |
 | *Módulo de operaciones con filtros dinámicos por estado, fecha y creador.* | *Flujo de ingreso compatible con almacenamiento MinIO/S3 para adjuntar facturas.* |
 
 | 🔍 5. Auditoría y Edición de Transacciones | 👥 6. Gestión de Usuarios y Permisos |
-| :---: | :---: |
-| <img src="URL_DE_EDITORDER_O_FACTURA" width="450px" alt="FalconPay Detail"/> | <img src="URL_DE_USERS" width="450px" alt="FalconPay Users"/> |
+| :---: | :---: |  
+| <img src="https://github.com/user-attachments/assets/dd936a35-1e8e-467c-97f8-bfd84cadbf90" width="450px" alt="FalconPay Detail"/> | <img src="https://github.com/user-attachments/assets/3cffdb7c-ee35-4a6a-9a44-e274e3f1898e" width="450px" alt="FalconPay Users"/> |
 | *Capa de visualización de detalles, logs de reintentos y estados de auditoría.* | *Panel de administración y control de roles para la seguridad del sistema.* |
 
 ---
