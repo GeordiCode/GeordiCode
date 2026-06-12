@@ -88,12 +88,12 @@
 
 | 🚗 Reportes de Huella de Carbono (Gases GEI) | 🌲 Inventario de Remociones y Capturas |
 | :---: | :---: |
-| <img src="URL_DE_REPORTS_CARBONO" width="450px" alt="EcoDash Carbono"/> | <img src="URL_DE_REPORTS_REMOCIONES" width="450px" alt="EcoDash Remociones"/> |
+| <img src="https://github.com/user-attachments/assets/f2a013a8-87ce-4d9c-9901-b8c0b5d5767f" width="450px" alt="EcoDash Carbono"/> | <img src="https://github.com/user-attachments/assets/d6924207-11d3-4ee8-8925-9073d1585d92" width="450px" alt="EcoDash Remociones"/> |
 | *Cálculo de alcances 1, 2 y 3 con agregación dinámica de datos según estándares internacionales.* | *Monitoreo y auditoría de proyectos de mitigación y biomasa forestal.* |
 
 | 🔄 Ciclo de Vida de Materiales | 🔀 Flujo de Circularidad (Sankey Diagram) |
 | :---: | :---: |
-| <img src="URL_DE_REPORTS_CIRCULARIDAD" width="450px" alt="EcoDash Circularidad"/> | <img src="URL_DE_REPORTS_CIRCULRIDAD_SANKEY" width="450px" alt="EcoDash Sankey"/> |
+| <img src="https://github.com/user-attachments/assets/e41539f4-204d-49c2-a387-4664f0a14cf1" width="450px" alt="EcoDash Circularidad"/> | <img src="https://github.com/user-attachments/assets/04983807-489c-453c-9570-a336aa6661e6" width="450px" alt="EcoDash Sankey"/> |
 | *Métricas operativas de residuos, tasa de reciclaje y reincorporación productiva.* | *Motor analítico visual para el mapeo de balances de materia y pérdidas del sistema.* |
 
 ---
