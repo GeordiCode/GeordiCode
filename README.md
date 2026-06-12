@@ -52,7 +52,7 @@
 
 | 🌐 1. Landing Page & Acceso Seguro | 📊 2. Dashboard Analítico de Control |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/c2d66001-8bfb-4fbf-a6b4-621f048a0524" width="450px" alt="FalconPay Landing"/> | <img src="URL_DE_DASHBOARD" width="450px" alt="FalconPay Dashboard"/> |
+| <img src="https://github.com/user-attachments/assets/c2d66001-8bfb-4fbf-a6b4-621f048a0524" width="450px" alt="FalconPay Landing"/> | <img src="https://github.com/user-attachments/assets/a52741fe-65f6-435f-bd8b-a466a0275e1f" width="450px" alt="FalconPay Dashboard"/> |
 | *Página de aterrizaje con control de acceso y autenticación segura.* | *Métricas financieras, estados de transacciones y KPIs en tiempo real.* |
 
 | 📋 3. Consola Central de Órdenes | 📝 4. Formulario de Creación y Carga Asíncrona |
