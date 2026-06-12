@@ -103,12 +103,12 @@
 
 | 🌿 Modelado Geográfico de Nodos Operativos | 🌲 Estructura Jerárquica Corporativa (Árbol) |
 | :---: | :---: |
-| <img src="URL_DE_NODOS_OPERATIVOS" width="450px" alt="EcoDash Nodos Map"/> | <img src="URL_DE_NODOS_OPERATIVOSVISTA_ARBOL" width="450px" alt="EcoDash Nodos Arbol"/> |
+| <img src="https://github.com/user-attachments/assets/658290c3-65f4-4487-91c5-46fc991a074a" width="450px" alt="EcoDash Nodos Map"/> | <img src="https://github.com/user-attachments/assets/8c962f85-7d45-4a05-a236-415a821d34e8" width="450px" alt="EcoDash Nodos Arbol"/> |
 | *Consola de administración geográfica para el control descentralizado de sedes y plantas.* | *Abstracción algorítmica para heredar factores de emisión en jerarquías empresariales complejas.* |
 
 | 📥 Centro de Ingesta Masiva (DataHub) | 📊 Métricas Consolidadas de Sostenibilidad |
 | :---: | :---: |
-| <img src="URL_DE_DATAHUB" width="450px" alt="EcoDash DataHub"/> | <img src="URL_DE_CIRCULARIDAD" width="450px" alt="EcoDash Resumen"/> |
+| <img src="https://github.com/user-attachments/assets/2fb75042-192c-4e62-9f13-58170366ad7f" width="450px" alt="EcoDash DataHub"/> | <img src="https://github.com/user-attachments/assets/c8889cfb-b003-42a7-bbee-c245a0696fe8" width="450px" alt="EcoDash Resumen"/> |
 | *Pipelines de carga de fuentes variables con validación previa de esquemas métricos.* | *Panel consolidado para reportes rápidos de cumplimiento normativo y auditorías ESG.* |
 
 ---
@@ -120,12 +120,12 @@
 
 | 🏢 Gestión y Onboarding de Empresas | 👥 Control de Accesos Basado en Roles (RBAC) |
 | :---: | :---: |
-| <img src="URL_DE_GESTION_EMPRESAS" width="450px" alt="EcoDash Empresas"/> | <img src="URL_DE_GESTION_USUARIOS" width="450px" alt="EcoDash Usuarios"/> |
+| <img src="https://github.com/user-attachments/assets/02acf90d-ef13-40b9-a44f-c8373b963dd9" width="450px" alt="EcoDash Empresas"/> | <img src="https://github.com/user-attachments/assets/ad513191-18c6-4265-9ae1-a4c13715a376" width="450px" alt="EcoDash Usuarios"/> |
 | *Panel multitenant para el aprovisionamiento y aislamiento de datos entre clientes corporativos.* | *Auditoría de actividad del equipo y asignación de permisos según el nivel de operación.* |
 
 | 🌐 Portal Público (Landing Page) | 🔐 Gateway de Autenticación Segura (Login) |
 | :---: | :---: |
-| <img src="URL_DE_LANDINGPAGE" width="450px" alt="EcoDash Landing"/> | <img src="URL_DE_LOGIN" width="450px" alt="EcoDash Login"/> |
+| <img src="https://github.com/user-attachments/assets/dc83503a-33cf-425b-be91-e24062ca5a07" width="450px" alt="EcoDash Landing"/> | <img src="https://github.com/user-attachments/assets/8f58b3fe-47d9-46a4-be7b-5a8274a12ec7" width="450px" alt="EcoDash Login"/> |
 | *Interfaz de cara al usuario para la promoción del ecosistema y captación corporativa.* | *Punto de acceso seguro con cifrado y manejo de sesiones protegidas.* |
 
 </details>
