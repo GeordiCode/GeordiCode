@@ -1,18 +1,16 @@
 # ¡Hola! Soy Jordi Ledesma 👋
 
-## 💻 Ingeniero de Software especializado en Backend & DevOps
-*Construyendo sistemas resilientes con pensamiento escalable y mentalidad de eficiencia operativa.*
+## 💻 Ingeniero de Software especializado en Backend, Sistemas Distribuidos & DevOps
+*Construyendo sistemas de alta disponibilidad con pensamiento arquitectónico, automatización y eficiencia operativa.*
 
 ---
 
 ## 👨‍💻 Un Enfoque Pragmático de la Tecnología
-"Utilizo la tecnología para resolver problemas de negocio, no solo para escribir código."
+"Utilizo la ingeniería para resolver problemas de negocio complejos, garantizando estabilidad, escalabilidad y resiliencia en producción."
 
-- ⚙️ **Experiencia Multidisciplinar:** Trayectoria sólida en DevOps, Backend y desarrollo Web, enfocada en soluciones seguras y escalables.
-- 🔧 **Infraestructura y Automatización:** Experto en automatización de despliegues y gestión de infraestructura crítica.
-- 🚀 **Visión de Producto:** Apasionado por crear soluciones que priorizan la experiencia del usuario y los objetivos de negocio.
-- 📚 **Evolución Constante:** Profundizando en arquitectura de software avanzada y prácticas modernas de observabilidad.
-- 💡 **Filosofía:** Me motiva crear soluciones inteligentes que simplifiquen la complejidad técnica.
+- ⚙️ **Sistemas & Backend:** Especializado en el diseño de microservicios robustos y arquitecturas orientadas a eventos utilizando **Go** y **Java (Spring Boot)**.
+- 🔧 **Infraestructura como Código & Contenedores:** Experiencia práctica empaquetando servicios con **Docker**, orquestando entornos distribuidos en **Kubernetes** y automatizando aprovisionamientos reproducibles con **Terraform**.
+- 🚀 **Cultura de Fiabilidad (SRE):** Enfoque nativo en la observabilidad (Métricas, Logs, Telemetría) y desacoplamiento de servicios mediante tareas asíncronas para mitigar puntos únicos de fallo (SPOF).
 
 ---
 
@@ -20,51 +18,48 @@
 
 ### 👨‍💻 Lenguajes de Programación
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,typescript,java,javascript,cpp,cs" height="35" />
+  <img src="https://skillicons.dev/icons?i=go,java,python,typescript,bash,javascript,cpp" height="40" />
 </p>
 
-### 🧩 Backend & Datos
+### 🧩 Backend, Datos & Mensajería
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,postgres,mysql,mongodb,redis" height="35" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,postgres,mysql,mongodb,redis" height="40" />
 </p>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps (Infraestructura)
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,nginx,githubactions,linux,bash" height="35" />
-</p>
-
-### 🎨 Frontend & UX/UI
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,figma,tailwind,html,css" height="35" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,githubactions,linux" height="40" />
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados (Casos de Éxito)
+## 🚀 Proyectos Destacados & Casos de Estudio
 
-### 🧠 [Arquitectura de Recomendación Basada en IA: SmartWear-AI Backend](https://github.com/GeordiCode/SmartWear-AI-backend)
-* **Arquitectura de IA:** Implementación de un modelo híbrido avanzado utilizando **FastAPI** para el servicio y **PyTorch** para el núcleo de redes neuronales.
-* **Aprendizaje Continuo:** Diseño de un sistema de entrenamiento en tiempo real (Online Training) que ajusta las recomendaciones basándose en la retroalimentación inmediata del usuario.
-* **Validación de Datos:** Ejecución de pruebas rigurosas mediante métricas AUC, ROC y validación cruzada (K-Fold) para asegurar la precisión del modelo en entornos ruidosos.
+### 💳 [FalconPay | Sistema de Gestión y Automatización de Órdenes de Pago](https://github.com/Dife2703/ProyectoGradoRopa)
+*Plataforma transaccional robusta de grado empresarial diseñada bajo una arquitectura monolítica modular.*
+* **Containerización y Ciclo de Vida:** Diseñé un entorno multi-contenedor aislado utilizando **Docker & Docker Compose**, abstrayendo por completo el software del host (compilación de backend con Maven y frontend con Angular internamente).
+* **Persistencia y Ciclo de Datos:** Integración de **PostgreSQL** con automatización de esquemas relacionales mediante **Flyway** para el versionamiento seguro de bases de datos. Manejo de auditoría mediante *Triggers* de estado y *Stored Procedures* transaccionales.
+* **Integración y Resiliencia Asíncrona:** Implementación de persistencia de archivos masivos (facturas) mediante una capa compatible con **S3 (MinIO)**. Sistema de notificaciones asíncronas basado en eventos de dominio para desacoplar las llamadas HTTP externas de la base transaccional, respaldado por logs de reintentos y auditoría de errores (`integration_error_log`).
 
-### 👕 [Ecosistema de Interacción Biométrica & UX: SmartWear-AI Frontend](https://github.com/Dife2703/ProyectoGradoRopa)
-* **Desarrollo Moderno:** Construcción de una interfaz fluida y responsiva utilizando **React + Vite**, estilizada con **Tailwind CSS** para un diseño minimalista y profesional.
-* **Interacción Biométrica:** Integración de captura de emociones vía webcam mediante lógica de comportamiento para personalizar la experiencia de compra en tiempo real.
-* **Gestión de Datos:** Implementación de flujos de autenticación y almacenamiento persistente utilizando la infraestructura de **Firebase**.
+### 🧠 [SmartWear AI | Infraestructura Backend de Cómputo e Inteligencia Artificial](https://github.com/GeordiCode/SmartWear-AI-backend)
+*Infraestructura backend de alto rendimiento para el procesamiento de modelos matemáticos y redes neuronales en tiempo real (Tesis de Grado - Calificación: 4.8/5.0).*
+* **Arquitectura de Inferencia Concurrente:** Creación de una API REST de baja latencia utilizando **FastAPI (Python)**, optimizada para servir un sistema híbrido de aprendizaje por refuerzo (*Multi-Armed Bandit*).
+* **Pipelines de Datos Estables:** Diseño de flujos de entrenamiento online en tiempo real desacoplados utilizando **PyTorch**, asegurando que la retroalimentación continua del usuario (*feedback loop*) altere los pesos del modelo sin bloquear los hilos principales de ejecución.
+* **Rigurosidad y Determinismo:** Implementación de scripts de validación con análisis estadístico profundo (curvas ROC, AUC, validación cruzada K-Fold) para medir el comportamiento predictivo bajo condiciones de estrés y ruidos de datos (hasta el 30%).
 
-### 📊 [Sistemas de Inteligencia de Negocios para Sostenibilidad: Módulo Ambiental](https://github.com/GeordiCode)
-**Consultoría para la medición de Huella de Carbono, reducciones y circularidad.**
-* **Business Intelligence:** Diseño y desarrollo de un motor de indicadores ambientales capaz de procesar datos complejos para la medición de sostenibilidad.
-* **Infraestructura Backend:** Implementación de una API robusta con **FastAPI** y una base de datos optimizada en **PostgreSQL** para el manejo eficiente de grandes volúmenes de información.
-* **Visualización Estratégica:** Creación de dashboards interactivos que transforman métricas técnicas en información accionable para la toma de decisiones gerenciales.
+### 📊 EcoDash & Epicoo | Motor de Inteligencia Ambiental corporativo (Caso de Éxito Empresarial)
+*Diseño arquitectónico y consultoría técnica para la automatización e ingesta de métricas de Huella de Carbono y circularidad ESG en CommunityLab S.A.S.*
+* **Sistemas Cloud Tolerantes a Fallos:** Lideré el despliegue de la arquitectura del ecosistema en **AWS**, configurando políticas de auto-escalado y alta disponibilidad para soportar la ingesta concurrente de datos analíticos masivos.
+* **Optimización y Tuning de Base de Datos:** Estructuración y optimización de índices sobre bases de datos relacionales complejas (**PostgreSQL**), mitigando cuellos de botella en consultas masivas de agregación de datos para la generación dinámica de KPIs gerenciales.
+* **Automatización de Entregas:** Implementación de pipelines de CI/CD para acelerar los ciclos de despliegue en producción de las dashboards analíticas construidas sobre React.js.
 
 ---
 
 ## 📫 Conectemos
 
-- 💼 **LinkedIn:** [linkedin.com/in/jordi-ledesma](https://www.linkedin.com/in/jordiledesma/)
+- 💼 **LinkedIn:** [linkedin.com/in/jordiledesma](https://www.linkedin.com/in/jordiledesma)
 - 📧 **Email:** jordi.ledesma.tech@gmail.com
-- 📱 **WhatsApp:** +57 323 297 7886
+- 📱 **WhatsApp:** [+57 323 297 7886](https://wa.me/573232977886)
 - 📍 **Ubicación:** Valle del Cauca, Colombia
 
 ---
