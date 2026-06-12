@@ -81,6 +81,55 @@
 * **Optimización y Tuning de Base de Datos:** Estructuración y optimización de índices sobre bases de datos relacionales complejas (**PostgreSQL**), mitigando cuellos de botella en consultas masivas de agregación de datos para la generación dinámica de KPIs gerenciales.
 * **Automatización de Entregas:** Implementación de pipelines de CI/CD para acelerar los ciclos de despliegue en producción de las dashboards analíticas construidas sobre React.js.
 
+#### 📊 Arquitectura Visual & Motor de Inteligencia Ambiental (React.js)
+
+### 📈 1. Core Analítico & Trazabilidad ESG
+*Monitores de alta densidad de datos para el cálculo automatizado de factores de emisión, remociones de CO₂ y flujos de economía circular.*
+
+| 🚗 Reportes de Huella de Carbono (Gases GEI) | 🌲 Inventario de Remociones y Capturas |
+| :---: | :---: |
+| <img src="URL_DE_REPORTS_CARBONO" width="450px" alt="EcoDash Carbono"/> | <img src="URL_DE_REPORTS_REMOCIONES" width="450px" alt="EcoDash Remociones"/> |
+| *Cálculo de alcances 1, 2 y 3 con agregación dinámica de datos según estándares internacionales.* | *Monitoreo y auditoría de proyectos de mitigación y biomasa forestal.* |
+
+| 🔄 Ciclo de Vida de Materiales | 🔀 Flujo de Circularidad (Sankey Diagram) |
+| :---: | :---: |
+| <img src="URL_DE_REPORTS_CIRCULARIDAD" width="450px" alt="EcoDash Circularidad"/> | <img src="URL_DE_REPORTS_CIRCULRIDAD_SANKEY" width="450px" alt="EcoDash Sankey"/> |
+| *Métricas operativas de residuos, tasa de reciclaje y reincorporación productiva.* | *Motor analítico visual para el mapeo de balances de materia y pérdidas del sistema.* |
+
+---
+
+### 🌳 2. Ingesta de Datos y Mapeo de Estructuras Complejas
+*Vistas diseñadas para resolver el mapeo de dependencias de grandes corporativos multitarget y la centralización de datos crudos (DataHub).*
+
+| 🌿 Modelado Geográfico de Nodos Operativos | 🌲 Estructura Jerárquica Corporativa (Árbol) |
+| :---: | :---: |
+| <img src="URL_DE_NODOS_OPERATIVOS" width="450px" alt="EcoDash Nodos Map"/> | <img src="URL_DE_NODOS_OPERATIVOSVISTA_ARBOL" width="450px" alt="EcoDash Nodos Arbol"/> |
+| *Consola de administración geográfica para el control descentralizado de sedes y plantas.* | *Abstracción algorítmica para heredar factores de emisión en jerarquías empresariales complejas.* |
+
+| 📥 Centro de Ingesta Masiva (DataHub) | 📊 Métricas Consolidadas de Sostenibilidad |
+| :---: | :---: |
+| <img src="URL_DE_DATAHUB" width="450px" alt="EcoDash DataHub"/> | <img src="URL_DE_CIRCULARIDAD" width="450px" alt="EcoDash Resumen"/> |
+| *Pipelines de carga de fuentes variables con validación previa de esquemas métricos.* | *Panel consolidado para reportes rápidos de cumplimiento normativo y auditorías ESG.* |
+
+---
+
+### ⚙️ 3. Acceso, Seguridad y Gobernanza de Datos (Módulo Corporativo)
+<details>
+  <summary>🔑 Ver Gestión de Identidades y Acceso Seguro (Clic para desplegar)</summary>
+  <br>
+
+| 🏢 Gestión y Onboarding de Empresas | 👥 Control de Accesos Basado en Roles (RBAC) |
+| :---: | :---: |
+| <img src="URL_DE_GESTION_EMPRESAS" width="450px" alt="EcoDash Empresas"/> | <img src="URL_DE_GESTION_USUARIOS" width="450px" alt="EcoDash Usuarios"/> |
+| *Panel multitenant para el aprovisionamiento y aislamiento de datos entre clientes corporativos.* | *Auditoría de actividad del equipo y asignación de permisos según el nivel de operación.* |
+
+| 🌐 Portal Público (Landing Page) | 🔐 Gateway de Autenticación Segura (Login) |
+| :---: | :---: |
+| <img src="URL_DE_LANDINGPAGE" width="450px" alt="EcoDash Landing"/> | <img src="URL_DE_LOGIN" width="450px" alt="EcoDash Login"/> |
+| *Interfaz de cara al usuario para la promoción del ecosistema y captación corporativa.* | *Punto de acceso seguro con cifrado y manejo de sesiones protegidas.* |
+
+</details>
+
 ---
 
 ## 📫 Conectemos
