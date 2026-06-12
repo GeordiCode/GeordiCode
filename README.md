@@ -42,7 +42,7 @@
 
 ## 🚀 Proyectos Destacados & Casos de Estudio
 
-### 💳 [FalconPay | Sistema de Gestión y Automatización de Órdenes de Pago](https://github.com/Dife2703/ProyectoGradoRopa)
+### 💳 [FalconPay | Sistema de Gestión y Automatización de Órdenes de Pago](https://github.com/GeordiCode/FalconPay)
 *Plataforma transaccional robusta de grado empresarial diseñada bajo una arquitectura monolítica modular.*
 * **Containerización y Ciclo de Vida:** Diseñé un entorno multi-contenedor aislado utilizando **Docker & Docker Compose**, abstrayendo por completo el software del host (compilación de backend con Maven y frontend con Angular internamente).
 * **Persistencia y Ciclo de Datos:** Integración de **PostgreSQL** con automatización de esquemas relacionales mediante **Flyway** para el versionamiento seguro de bases de datos. Manejo de auditoría mediante *Triggers* de estado y *Stored Procedures* transaccionales.
