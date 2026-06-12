@@ -57,7 +57,7 @@
 
 | 📋 3. Consola Central de Órdenes | 📝 4. Formulario de Creación y Carga Asíncrona |
 | :---: | :---: |
-| <img src="URL_DE_ORDERS" width="450px" alt="FalconPay Orders"/> | <img src="URL_DE_NEWORDER" width="450px" alt="FalconPay New Order"/> |
+| <img src="https://github.com/user-attachments/assets/e5e17f43-272b-4655-b0e0-0d7af3800377" width="450px" alt="FalconPay Orders"/> | <img src="URL_DE_NEWORDER" width="450px" alt="FalconPay New Order"/> |
 | *Módulo de operaciones con filtros dinámicos por estado, fecha y creador.* | *Flujo de ingreso compatible con almacenamiento MinIO/S3 para adjuntar facturas.* |
 
 | 🔍 5. Auditoría y Edición de Transacciones | 👥 6. Gestión de Usuarios y Permisos |
