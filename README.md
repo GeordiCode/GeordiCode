@@ -30,7 +30,7 @@
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,nginx,githubactions,linux,bash" height="35" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,githubactions,linux,bash" height="35" />
 </p>
 
 ### 🎨 Frontend & UX/UI
