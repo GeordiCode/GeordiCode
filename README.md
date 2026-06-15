@@ -20,7 +20,7 @@
 
 ### 👨‍💻 Lenguajes de Programación
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,typescript,java,javascript,cpp,cs" height="35" />
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,java,javascript,cpp" height="35" />
 </p>
 
 ### 🧩 Backend & Datos
