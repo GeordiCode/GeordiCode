@@ -60,30 +60,47 @@
   <sub><b>Hero View:</b> Consola central de telemetría del motor, flujo de órdenes en tiempo real y métricas operativas.</sub>
 </p>
 
-<!-- PUNTOS CLAVE DE UI / CAPTURAS PRINCIPALES EN MINIATURA COMPACTA -->
+---
+
+#### 📸 Galería Interactiva: Módulos del Sistema
+
+<details open>
+  <summary>⏩ <b>Diapositiva 1/4: Registro & Ejecución</b> (Ledger + Arbitraje)</summary>
+  <br>
+
 | 🔗 Libro Mayor (Ledger) | ⚡ Ejecución de Arbitraje |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/b4bfc8ce-b515-49b6-805e-5d24e3e533c6" width="100%" alt="Ledger"/> | <img src="https://github.com/user-attachments/assets/3113a3e6-bef7-4492-b3d8-30da8c88831d" width="100%" alt="Arbitraje"/> |
 | *Explorador inmutable de bloques procesados.* | *Monitoreo de ejecuciones triangulares y enrutamiento.* |
 
----
+</details>
 
-<!-- REVELACIÓN PROGRESIVA: Desplegable con el resto de la suite de diseño -->
 <details>
-  <summary>🔍 <b>Explorar la Suite Completa de Pantallas (Liquidez, Bot Settings y Auditoría)</b></summary>
+  <summary>⏩ <b>Diapositiva 2/4: Gestión Financiera</b> (Saldos + Liquidez)</summary>
   <br>
 
 | 💰 Saldos & Tokens | 🌊 Pools de Liquidez |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/c5f0f004-6487-45d2-90c1-4b4569fa041a" width="100%" alt="Saldos"/> | <img src="https://github.com/user-attachments/assets/4449ba31-2987-4583-945f-3472d4fb4a18" width="100%" alt="Liquidez"/> |
+| *Balance consolidado de activos en el motor.* | *Monitoreo de profundidad de reservas e intercambios.* |
+
+</details>
+
+<details>
+  <summary>⏩ <b>Diapositiva 3/4: Operaciones del Bot</b> (Ecosistema + Configuración)</summary>
+  <br>
 
 | 🏊 Ecosistema de Pools | ⚙️ Configuración del Bot |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/499be3cf-fb92-451b-98e8-1aebaaf3484d" width="100%" alt="Pools"/> | <img src="https://github.com/user-attachments/assets/83e4b84e-5815-475d-8117-9581274d349d" width="100%" alt="Settings"/> |
+| *Ratios de balance e intercambios en el protocolo.* | *Tolerancia de slippage, gas y consola de telemetría.* |
 
----
+</details>
 
-#### 🛡️ Estado de Infraestructura & Auditoría
+<details>
+  <summary>⏩ <b>Diapositiva 4/4: Telemetría DevOps</b> (Infraestructura & Auditoría)</summary>
+  <br>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/78e4a4b9-bf5a-4ef1-b1e4-65749048851b" width="100%" alt="Infraestructura y Auditoría"/>
   <br>
