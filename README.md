@@ -74,28 +74,27 @@
 
 ---
 
-### 💰 2. Gestión Financiera, Pools & Ecosistema de Bots
+### 💰 2. Gestión Financiera & Pools de Liquidez
 *Monitoreo de capital activo, profundidad de reservas y simulación cuantitativa de mercado.*
 
-| 💧 Balances & Liquidez en Pools | ⚙️ Ratios del Protocolo & Bot Quant |
+| 💧 Balances & Liquidez en Pools | ⚙️ Ratios del Protocolo & Pools Ecosistema |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/c5f0f004-6487-45d2-90c1-4b4569fa041a" width="450px" alt="Liquidez KestrelMesh"/> | <img src="https://github.com/user-attachments/assets/499be3cf-fb92-451b-98e8-1aebaaf3484d" width="450px" alt="Bot KestrelMesh"/> |
-| *Saldos consolidados, volumen operado y profundidad por par de liquidez.* | *Ajuste fino de comisiones del motor y configuración del bot en Python.* |
+| <img src="https://github.com/user-attachments/assets/4449ba31-2987-4583-945f-3472d4fb4a18" width="450px" alt="Liquidez KestrelMesh"/> | <img src="https://github.com/user-attachments/assets/499be3cf-fb92-451b-98e8-1aebaaf3484d" width="450px" alt="Pools Ecosistema KestrelMesh"/> |
+| *Saldos consolidados, reservas TVL y gráfico de profundidad por par de liquidez.* | *Ajuste fino de ratios de intercambio y monitoreo de pools de liquidez activas.* |
 
 ---
 
-### 🛡️ 3. Telemetría DevOps & Auditoría de Infraestructura (Módulo Avanzado)
+### 🛡️ 3. Telemetría DevOps & Configuración de Bots (Módulo Avanzado)
 <details>
-  <summary>🔑 Ver Consola DevOps y Observabilidad de Microservicios (Clic para desplegar)</summary>
+  <summary>🔑 Ver Consola DevOps y Parámetros del Motor (Clic para desplegar)</summary>
   <br>
 
-| 📊 Health Check de Nodos & Observabilidad | 🔐 Auditoría de Seguridad & Logs de Sistema |
+| 📊 Health Check de Nodos & Observabilidad | 🤖 Configuración del Bot Quant & Logs |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/78e4a4b9-bf5a-4ef1-b1e4-65749048851b" width="450px" alt="DevOps Panel KestrelMesh"/> | <img src="https://github.com/user-attachments/assets/83e4a4b9-bf5a-4ef1-b1e4-65749048851b" width="450px" alt="Auditoría KestrelMesh"/> |
-| *Estado operativo en tiempo real del nodo Rust, indexador Go y Postgres.* | *Control de accesos de operadores, trazas de errores e historial de eventos.* |
+| <img src="https://github.com/user-attachments/assets/78e4a4b9-bf5a-4ef1-b1e4-65749048851b" width="450px" alt="DevOps Panel KestrelMesh"/> | <img src="https://github.com/user-attachments/assets/83e4b84e-5815-475d-8117-9581274d349d" width="450px" alt="Bot Settings KestrelMesh"/> |
+| *Estado operativo en tiempo real del nodo Rust, indexador Go y Postgres.* | *Parámetros de ejecución, comisiones del bot y logs de operación.* |
 
 </details>
-
 ---
 
 ### 📊 EcoDash & Epicoo | Motor de Inteligencia Ambiental corporativo (Caso de Éxito Empresarial)
