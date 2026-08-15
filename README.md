@@ -53,70 +53,47 @@
 
 #### 🌐 Arquitectura de Interfaz & Consola de Control
 
-<!-- HERO SHOT: Vista principal fija -->
+<!-- HERO SHOT: GIF ANIMADO PRINCIPAL -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/33db4e0d-e614-44ec-9e26-f1feac7748d9" width="100%" alt="KestrelMesh Core Dashboard"/>
+  <img src="https://github.com/user-attachments/assets/dc4d9b1d-7ef6-4156-9267-2f7b118b7e4c" width="100%" alt="KestrelMesh Live Suite Overview"/>
   <br>
-  <sub><b>Hero View:</b> Consola central de telemetría del motor, flujo de órdenes en tiempo real y métricas operativas.</sub>
-</p>
-
-<!-- GIF RESUMEN -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dc4d9b1d-7ef6-4156-9267-2f7b118b7e4c" width="100%" alt="Recorrido Dinámico por la Suite de Módulos"/>
-  <br>
-  <sub><b>Overview Animado:</b> Recorrido dinámico por la suite completa de microservicios y módulos del sistema.</sub>
+  <sub><b>Hero Overview:</b> Recorrido animado en tiempo real por la suite completa de microservicios y módulos de la consola.</sub>
 </p>
 
 ---
 
-#### 🔍 Desglose Técnico de Módulos
+### 🔍 Desglose Técnico por Módulos Operativos
 
-<details open>
-  <summary>🔗 <b>1. Libro Mayor (Ledger) & Enrutamiento de Arbitraje</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/b4bfc8ce-b515-49b6-805e-5d24e3e533c6" width="100%" alt="Ledger y Arbitraje"/>
-  </p>
-  <ul>
-    <li><b>Explorador Inmutable:</b> Trazabilidad de bloques procesados, hashes y verificación de integridad criptográfica.</li>
-    <li><b>Ejecución Triangular:</b> Monitoreo en tiempo real de rutas de arbitraje y tiempos de propagación del motor.</li>
-  </ul>
-</details>
+### 🔗 1. Libro Mayor (Ledger) & Enrutamiento de Arbitraje
+*Consola de trazabilidad criptográfica y ejecución algorítmica de transacciones triangulares.*
 
+| 📜 Explorador Inmutable de Bloques | ⚡ Enrutamiento de Arbitraje Triangular |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/b4bfc8ce-b515-49b6-805e-5d24e3e533c6" width="450px" alt="Ledger KestrelMesh"/> | <img src="https://github.com/user-attachments/assets/3113a3e6-bef7-4492-b3d8-30da8c88831d" width="450px" alt="Arbitraje KestrelMesh"/> |
+| *Trazabilidad de bloques procesados, hashes y verificación de integridad.* | *Monitoreo en tiempo real de rutas de arbitraje y latencia de propagación.* |
+
+---
+
+### 💰 2. Gestión Financiera, Pools & Ecosistema de Bots
+*Monitoreo de capital activo, profundidad de reservas y simulación cuantitativa de mercado.*
+
+| 💧 Balances & Liquidez en Pools | ⚙️ Ratios del Protocolo & Bot Quant |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/c5f0f004-6487-45d2-90c1-4b4569fa041a" width="450px" alt="Liquidez KestrelMesh"/> | <img src="https://github.com/user-attachments/assets/499be3cf-fb92-451b-98e8-1aebaaf3484d" width="450px" alt="Bot KestrelMesh"/> |
+| *Saldos consolidados, volumen operado y profundidad por par de liquidez.* | *Ajuste fino de comisiones del motor y configuración del bot en Python.* |
+
+---
+
+### 🛡️ 3. Telemetría DevOps & Auditoría de Infraestructura (Módulo Avanzado)
 <details>
-  <summary>💰 <b>2. Gestión Financiera & Pools de Liquidez</b></summary>
+  <summary>🔑 Ver Consola DevOps y Observabilidad de Microservicios (Clic para desplegar)</summary>
   <br>
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/c5f0f004-6487-45d2-90c1-4b4569fa041a" width="100%" alt="Saldos y Liquidez"/>
-  </p>
-  <ul>
-    <li><b>Balances Consolidados:</b> Métricas de capital activo, reservas de tokens y rendimiento por nodo de simulación.</li>
-    <li><b>Profundidad de Reservas:</b> Análisis de volumen, slippage y spreads en pares monitoreados.</li>
-  </ul>
-</details>
 
-<details>
-  <summary>⚙️ <b>3. Ecosistema de Parámetros & Simulación de Bot</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/499be3cf-fb92-451b-98e8-1aebaaf3484d" width="100%" alt="Ecosistema y Bot"/>
-  </p>
-  <ul>
-    <li><b>Ratios del Protocolo:</b> Panel interactivo para el ajuste de comisiones, tiempos de respuesta y límites de red.</li>
-    <li><b>Motor Cuantitativo:</b> Configuración de los bots de trading en Python para pruebas de estrés transaccional.</li>
-  </ul>
-</details>
+| 📊 Health Check de Nodos & Observabilidad | 🔐 Auditoría de Seguridad & Logs de Sistema |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/78e4a4b9-bf5a-4ef1-b1e4-65749048851b" width="450px" alt="DevOps Panel KestrelMesh"/> | <img src="https://github.com/user-attachments/assets/83e4a4b9-bf5a-4ef1-b1e4-65749048851b" width="450px" alt="Auditoría KestrelMesh"/> |
+| *Estado operativo en tiempo real del nodo Rust, indexador Go y Postgres.* | *Control de accesos de operadores, trazas de errores e historial de eventos.* |
 
-<details>
-  <summary>🛡️ <b>4. Telemetría DevOps & Auditoría de Infraestructura</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/78e4a4b9-bf5a-4ef1-b1e4-65749048851b" width="100%" alt="Panel DevOps y Auditoría"/>
-  </p>
-  <ul>
-    <li><b>Health Check de Servicios:</b> Estado operativo del nodo ejecutor en Rust, indexador en Go y PostgreSQL.</li>
-    <li><b>Auditoría & Seguridad:</b> Control de accesos de operadores, logs de sistema en tiempo real y métricas de infraestructura.</li>
-  </ul>
 </details>
 
 ---
