@@ -48,27 +48,39 @@
 - **Consenso & Registro Criptográfico:** Implementación de protocolos de propagación de datos (*Gossip Protocol*), generación de bloques con hashing inmutable y verificación de integridad transaccional en un entorno descentralizado.
 - **Observabilidad & Simulación de Nube:** Infraestructura totalmente containerizada instrumentada con **Prometheus** y **Grafana** (Observabilidad como Código), junto con emulación de servicios cloud **AWS (Floci/S3/RDS)** provistos mediante **Terraform** y despliegues en **Kubernetes (k3s/Helm)**.
 
-#### 🌐 Arquitectura de Red, Indexación y Métricas de Alto Rendimiento
+#### 🌐 Arquitectura Visual del Motor & Consola Operativa
 
-| 📊 1. Dashboard Principal & Acción de Precios | 🔗 2. Explorador de Bloques (Ledger) |
+### 📈 1. Core Operativo & Registro de Bloques
+*Panel principal de telemetría y trazabilidad del libro mayor descentralizado.*
+
+| 📊 Dashboard Principal & Acción de Precios | 🔗 Explorador de Bloques (Ledger) |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/33db4e0d-e614-44ec-9e26-f1feac7748d9" width="450px" alt="Dashboard Principal"/> | <img src="https://github.com/user-attachments/assets/b4bfc8ce-b515-49b6-805e-5d24e3e533c6" width="450px" alt="Explorador de Bloques"/> |
 | *Métricas operativas del motor, gráfico de acción de precios y distribución de beneficios por token.* | *Registro inmutable de transacciones y explorador de bloques procesados en tiempo real.* |
 
-| 💰 3. Saldos de Cuentas & Tokens | 🌊 4. Reservas de Pools de Liquidez |
+---
+
+### ⚡ 2. Módulos de Liquidez, Arbitraje y Gobernanza
+<details>
+  <summary>📸 Haz clic aquí para desplegar las capturas de Pools, Arbitraje y Auditoría (6 vistas)</summary>
+  <br>
+
+| 💰 Saldos de Cuentas & Tokens | 🌊 Reservas de Pools de Liquidez |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/c5f0f004-6487-45d2-90c1-4b4569fa041a" width="450px" alt="Saldos de Cuentas"/> | <img src="https://github.com/user-attachments/assets/4449ba31-2987-4583-945f-3472d4fb4a18" width="450px" alt="Reservas de Liquidez"/> |
 | *Balance consolidado de activos digitales asignados al bot de arbitraje.* | *Monitoreo de profundidad de reservas y tasas de cambio entre pares de tokens.* |
 
-| 🏊 5. Ecosistema de Pools Activas | ⚡ 6. Historial de Ejecución de Arbitraje |
+| 🏊 Ecosistema de Pools Activas | ⚡ Historial de Ejecución de Arbitraje |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/499be3cf-fb92-451b-98e8-1aebaaf3484d" width="450px" alt="Ecosistema de Pools"/> | <img src="https://github.com/user-attachments/assets/3113a3e6-bef7-4492-b3d8-30da8c88831d" width="450px" alt="Historial de Arbitraje"/> |
 | *Vista general de ratios de balance e intercambios activos en el protocolo.* | *Registro de ejecuciones triangulares y flujo dinámico del enrutamiento de liquidez.* |
 
-| ⚙️ 7. Parámetros & Configuración del Bot | 🛡️ 8. Estado de Infraestructura & Auditoría |
+| ⚙️ Parámetros & Configuración del Bot | 🛡️ Estado de Infraestructura & Auditoría |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/83e4b84e-5815-475d-8117-9581274d349d" width="450px" alt="Configuración del Bot"/> | <img src="https://github.com/user-attachments/assets/78e4a4b9-bf5a-4ef1-b1e4-65749048851b" width="450px" alt="Perfil e Infraestructura"/> |
 | *Control de tolerancia de slippage, estrategias de gas y consola de telemetría en vivo.* | *Métricas de salud de los nodos (Rust, Indexer, PostgreSQL) y logs de seguridad.* |
+
+</details>
 
 ---
 
