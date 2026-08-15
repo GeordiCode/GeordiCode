@@ -53,22 +53,70 @@
 
 #### 🌐 Arquitectura de Interfaz & Consola de Control
 
-<!-- HERO SHOT: La vista principal a ancho completo -->
+<!-- HERO SHOT: Vista principal fija -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/33db4e0d-e614-44ec-9e26-f1feac7748d9" width="100%" alt="KestrelMesh Core Dashboard"/>
   <br>
   <sub><b>Hero View:</b> Consola central de telemetría del motor, flujo de órdenes en tiempo real y métricas operativas.</sub>
 </p>
 
-<!-- DESPLEGABLE CON TOUR ANIMADO -->
+<!-- GIF RESUMEN -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dc4d9b1d-7ef6-4156-9267-2f7b118b7e4c" width="100%" alt="Recorrido Dinámico por la Suite de Módulos"/>
+  <br>
+  <sub><b>Overview Animado:</b> Recorrido dinámico por la suite completa de microservicios y módulos del sistema.</sub>
+</p>
+
+---
+
+#### 🔍 Desglose Técnico de Módulos
+
 <details open>
-  <summary>🎞️ <b>Explorar la Suite Completa (Tour Animado por Módulos)</b></summary>
+  <summary>🔗 <b>1. Libro Mayor (Ledger) & Enrutamiento de Arbitraje</b></summary>
   <br>
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/dc4d9b1d-7ef6-4156-9267-2f7b118b7e4c" width="100%" alt="Recorrido Dinámico por la Suite de Módulos"/>
-    <br>
-    <sub><b>Live Suite Tour:</b> Recorrido automático por los módulos de Ledger, Arbitraje, Liquidez, Configuración del Bot y Panel DevOps.</sub>
+    <img src="https://github.com/user-attachments/assets/b4bfc8ce-b515-49b6-805e-5d24e3e533c6" width="100%" alt="Ledger y Arbitraje"/>
   </p>
+  <ul>
+    <li><b>Explorador Inmutable:</b> Trazabilidad de bloques procesados, hashes y verificación de integridad criptográfica.</li>
+    <li><b>Ejecución Triangular:</b> Monitoreo en tiempo real de rutas de arbitraje y tiempos de propagación del motor.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>💰 <b>2. Gestión Financiera & Pools de Liquidez</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/c5f0f004-6487-45d2-90c1-4b4569fa041a" width="100%" alt="Saldos y Liquidez"/>
+  </p>
+  <ul>
+    <li><b>Balances Consolidados:</b> Métricas de capital activo, reservas de tokens y rendimiento por nodo de simulación.</li>
+    <li><b>Profundidad de Reservas:</b> Análisis de volumen, slippage y spreads en pares monitoreados.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>⚙️ <b>3. Ecosistema de Parámetros & Simulación de Bot</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/499be3cf-fb92-451b-98e8-1aebaaf3484d" width="100%" alt="Ecosistema y Bot"/>
+  </p>
+  <ul>
+    <li><b>Ratios del Protocolo:</b> Panel interactivo para el ajuste de comisiones, tiempos de respuesta y límites de red.</li>
+    <li><b>Motor Cuantitativo:</b> Configuración de los bots de trading en Python para pruebas de estrés transaccional.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>🛡️ <b>4. Telemetría DevOps & Auditoría de Infraestructura</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/78e4a4b9-bf5a-4ef1-b1e4-65749048851b" width="100%" alt="Panel DevOps y Auditoría"/>
+  </p>
+  <ul>
+    <li><b>Health Check de Servicios:</b> Estado operativo del nodo ejecutor en Rust, indexador en Go y PostgreSQL.</li>
+    <li><b>Auditoría & Seguridad:</b> Control de accesos de operadores, logs de sistema en tiempo real y métricas de infraestructura.</li>
+  </ul>
 </details>
 
 ---
