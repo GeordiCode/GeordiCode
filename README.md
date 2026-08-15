@@ -50,15 +50,25 @@
 
 #### 🌐 Arquitectura de Red, Indexación y Métricas de Alto Rendimiento
 
-| 🕸️ 1. Libro Mayor & Ingesta Distribuida | 📊 2. Telemetría & Observabilidad en Tiempo Real |
+| 📊 1. Dashboard Principal & Acción de Precios | 🔗 2. Explorador de Bloques (Ledger) |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/TU_ASSET_KESTREL_1.png" width="450px" alt="KestrelMesh Architecture"/> | <img src="https://github.com/user-attachments/assets/TU_ASSET_KESTREL_2.png" width="450px" alt="KestrelMesh Observability"/> |
-| *Protocolo P2P en Rust con sincronización asíncrona hacia la capa de indexación en Go y PostgreSQL.* | *Monitoreo de bloques por segundo, latencia de red y métricas del libro mayor instrumentadas en Grafana.* |
+| <img src="dashboard.png" width="450px" alt="Dashboard Principal"/> | <img src="dashboard2.png" width="450px" alt="Explorador de Bloques"/> |
+| *Métricas operativas del motor, gráfico de acción de precios y distribución de beneficios por token.* | *Registro inmutable de transacciones y explorador de bloques procesados en tiempo real.* |
 
-| ⚙️ 3. Simulación Cuantitativa & Bots de Arbitraje | ☁️ 4. Infraestructura Cloud como Código (IaC) |
+| 💰 3. Saldos de Cuentas & Tokens | 🌊 4. Reservas de Pools de Liquidez |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/TU_ASSET_KESTREL_3.png" width="450px" alt="KestrelMesh Bots"/> | <img src="https://github.com/user-attachments/assets/TU_ASSET_KESTREL_4.png" width="450px" alt="KestrelMesh Infrastructure"/> |
-| *Generador de tráfico y agentes de arbitraje en Python validando la liquidez y convergencia de estados.* | *Aprovisionamiento emulado de servicios AWS con Terraform, S3 y despliegue sobre Kubernetes.* |
+| <img src="dashboard3.png" width="450px" alt="Saldos de Cuentas"/> | <img src="LiquidPool.png" width="450px" alt="Reservas de Liquidez"/> |
+| *Balance consolidado de activos digitales asignados al bot de arbitraje.* | *Monitoreo de profundidad de reservas y tasas de cambio entre pares de tokens.* |
+
+| 🏊 5. Ecosistema de Pools Activas | ⚡ 6. Historial de Ejecución de Arbitraje |
+| :---: | :---: |
+| <img src="LiquidPool2.png" width="450px" alt="Ecosistema de Pools"/> | <img src="arbitrage.png" width="450px" alt="Historial de Arbitraje"/> |
+| *Vista general de ratios de balance e intercambios activos en el protocolo.* | *Registro de ejecuciones triangulares y flujo dinámico del enrutamiento de liquidez.* |
+
+| ⚙️ 7. Parámetros & Configuración del Bot | 🛡️ 8. Estado de Infraestructura & Auditoría |
+| :---: | :---: |
+| <img src="botSettings.png" width="450px" alt="Configuración del Bot"/> | <img src="profile.png" width="450px" alt="Perfil e Infraestructura"/> |
+| *Control de tolerancia de slippage, estrategias de gas y consola de telemetría en vivo.* | *Métricas de salud de los nodos (Rust, Indexer, PostgreSQL) y logs de seguridad.* |
 
 ---
 
