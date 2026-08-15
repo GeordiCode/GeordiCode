@@ -75,15 +75,20 @@
 
 | 💰 Saldos & Tokens | 🌊 Pools de Liquidez |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/c5f0f004-6487-45d2-90c1-4b4569fa041a" width="450px" alt="Saldos"/> | <img src="https://github.com/user-attachments/assets/4449ba31-2987-4583-945f-3472d4fb4a18" width="450px" alt="Liquidez"/> |
+| <img src="https://github.com/user-attachments/assets/c5f0f004-6487-45d2-90c1-4b4569fa041a" width="100%" alt="Saldos"/> | <img src="https://github.com/user-attachments/assets/4449ba31-2987-4583-945f-3472d4fb4a18" width="100%" alt="Liquidez"/> |
 
 | 🏊 Ecosistema de Pools | ⚙️ Configuración del Bot |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/499be3cf-fb92-451b-98e8-1aebaaf3484d" width="450px" alt="Pools"/> | <img src="https://github.com/user-attachments/assets/83e4b84e-5815-475d-8117-9581274d349d" width="450px" alt="Settings"/> |
+| <img src="https://github.com/user-attachments/assets/499be3cf-fb92-451b-98e8-1aebaaf3484d" width="100%" alt="Pools"/> | <img src="https://github.com/user-attachments/assets/83e4b84e-5815-475d-8117-9581274d349d" width="100%" alt="Settings"/> |
 
-| 🛡️ Estado de Infraestructura & Auditoría |
-| :---: |
-| <img src="https://github.com/user-attachments/assets/78e4a4b9-bf5a-4ef1-b1e4-65749048851b" width="600px" alt="Infraestructura"/> |
+---
+
+#### 🛡️ Estado de Infraestructura & Auditoría
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/78e4a4b9-bf5a-4ef1-b1e4-65749048851b" width="100%" alt="Infraestructura y Auditoría"/>
+  <br>
+  <sub><b>Panel DevOps:</b> Telemetría de salud de microservicios (Rust, Go, PostgreSQL), credenciales de operador y logs de auditoría.</sub>
+</p>
 
 </details>
 
