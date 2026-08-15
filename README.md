@@ -95,6 +95,7 @@
 | *Estado operativo en tiempo real del nodo Rust, indexador Go y Postgres.* | *Parámetros de ejecución, comisiones del bot y logs de operación.* |
 
 </details>
+
 ---
 
 ### 📊 EcoDash & Epicoo | Motor de Inteligencia Ambiental corporativo (Caso de Éxito Empresarial)
