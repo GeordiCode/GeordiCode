@@ -60,14 +60,16 @@
   <sub><b>Hero View:</b> Consola central de telemetría del motor, flujo de órdenes en tiempo real y métricas operativas.</sub>
 </p>
 
----
-
-<!-- CARRUSEL SECUNDARIO DINÁMICO EN GIF -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dc4d9b1d-7ef6-4156-9267-2f7b118b7e4c" width="100%" alt="Recorrido Dinámico por la Suite de Módulos"/>
+<!-- DESPLEGABLE CON TOUR ANIMADO -->
+<details open>
+  <summary>🎞️ <b>Explorar la Suite Completa (Tour Animado por Módulos)</b></summary>
   <br>
-  <sub><b>Live Suite Tour:</b> Recorrido automático por los módulos de Ledger, Arbitraje, Liquidez, Configuración del Bot y Panel DevOps.</sub>
-</p>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/dc4d9b1d-7ef6-4156-9267-2f7b118b7e4c" width="100%" alt="Recorrido Dinámico por la Suite de Módulos"/>
+    <br>
+    <sub><b>Live Suite Tour:</b> Recorrido automático por los módulos de Ledger, Arbitraje, Liquidez, Configuración del Bot y Panel DevOps.</sub>
+  </p>
+</details>
 
 ---
 
