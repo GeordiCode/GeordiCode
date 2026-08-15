@@ -57,7 +57,7 @@
 
 | 💰 3. Saldos de Cuentas & Tokens | 🌊 4. Reservas de Pools de Liquidez |
 | :---: | :---: |
-| <img src="dashboard3.png" width="450px" alt="Saldos de Cuentas"/> | <img src="LiquidPool.png" width="450px" alt="Reservas de Liquidez"/> |
+| <img src="https://github.com/user-attachments/assets/c5f0f004-6487-45d2-90c1-4b4569fa041a" width="450px" alt="Saldos de Cuentas"/> | <img src="https://github.com/user-attachments/assets/4449ba31-2987-4583-945f-3472d4fb4a18" width="450px" alt="Reservas de Liquidez"/> |
 | *Balance consolidado de activos digitales asignados al bot de arbitraje.* | *Monitoreo de profundidad de reservas y tasas de cambio entre pares de tokens.* |
 
 | 🏊 5. Ecosistema de Pools Activas | ⚡ 6. Historial de Ejecución de Arbitraje |
