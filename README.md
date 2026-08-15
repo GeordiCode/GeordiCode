@@ -43,7 +43,7 @@
 ## 🚀 Proyectos Destacados & Casos de Estudio
 
 ### 🔗 [KestrelMesh | Red Distribuida P2P & Motor de Simulación Transaccional](https://github.com/GeordiCode/KestrelMesh)
-*Arquitectura de red distribuida de alto rendimiento para la validación asíncrona de transacciones, simulación de consensos y procesamiento analítico en tiempo real (Proyecto Personal).*
+*Arquitectura de red distribuida de alto rendimiento para la validación asíncrona de transacciones, simulación de consensos y procesamiento analítico en tiempo real.*
 
 - **Sistemas Distribuidos & Concurrencia Multilenguaje:** Núcleo de red y motor de libro mayor desarrollado en **Rust**, desacoplado de una capa de ingesta e indexación de alta velocidad en **Go** y bots de simulación cuantitativa en **Python**.
 - **Consenso & Registro Criptográfico:** Implementación de protocolos de propagación de datos (*Gossip Protocol*), generación de bloques con hashing inmutable y verificación de integridad transaccional en un entorno descentralizado.
