@@ -62,17 +62,12 @@
 
 ---
 
-<!-- OPCIÓN 1: CARRUSEL DE DESPLAZAMIENTO HORIZONTAL -->
-<details open>
-  <summary>🔍 <b>Explorar Módulos del Sistema (Desliza hacia la derecha ➔)</b></summary>
+<!-- CARRUSEL SECUNDARIO DINÁMICO EN GIF -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dc4d9b1d-7ef6-4156-9267-2f7b118b7e4c" width="100%" alt="Recorrido Dinámico por la Suite de Módulos"/>
   <br>
-
-| 🔗 1. Ledger & Arbitraje | 💰 2. Saldos & Liquidez | ⚙️ 3. Ecosistema & Bot | 🛡️ 4. Infraestructura & Auditoría |
-| :---: | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/b4bfc8ce-b515-49b6-805e-5d24e3e533c6" width="380px"/> <img src="https://github.com/user-attachments/assets/3113a3e6-bef7-4492-b3d8-30da8c88831d" width="380px"/> | <img src="https://github.com/user-attachments/assets/c5f0f004-6487-45d2-90c1-4b4569fa041a" width="380px"/> <img src="https://github.com/user-attachments/assets/4449ba31-2987-4583-945f-3472d4fb4a18" width="380px"/> | <img src="https://github.com/user-attachments/assets/499be3cf-fb92-451b-98e8-1aebaaf3484d" width="380px"/> <img src="https://github.com/user-attachments/assets/83e4b84e-5815-475d-8117-9581274d349d" width="380px"/> | <img src="https://github.com/user-attachments/assets/78e4a4b9-bf5a-4ef1-b1e4-65749048851b" width="760px"/> |
-| *Explorador inmutable y monitoreo de arbitraje.* | *Balance consolidado y pools de liquidez.* | *Ratios del protocolo y configuración del bot.* | *Panel DevOps de salud de nodos (Rust, Go, Postgres).* |
-
-</details>
+  <sub><b>Live Suite Tour:</b> Recorrido automático por los módulos de Ledger, Arbitraje, Liquidez, Configuración del Bot y Panel DevOps.</sub>
+</p>
 
 ---
 
