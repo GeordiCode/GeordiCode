@@ -55,7 +55,7 @@
 
 <!-- HERO SHOT: GIF ANIMADO PRINCIPAL -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dc4d9b1d-7ef6-4156-9267-2f7b118b7e4c" width="100%" alt="KestrelMesh Live Suite Overview"/>
+  <img src="https://github.com/user-attachments/assets/92ce60de-0c30-4e6f-9e15-73ebb0d65a19" width="100%" alt="KestrelMesh Live Suite Overview"/>
   <br>
   <sub><b>Hero Overview:</b> Recorrido animado en tiempo real por la suite completa de microservicios y módulos de la consola.</sub>
 </p>
