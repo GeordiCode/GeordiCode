@@ -42,6 +42,26 @@
 
 ## 🚀 Proyectos Destacados & Casos de Estudio
 
+### 🔗 [KestrelMesh | Red Distribuida P2P & Motor de Simulación Transaccional](https://github.com/GeordiCode/KestrelMesh)
+*Arquitectura de red distribuida de alto rendimiento para la validación asíncrona de transacciones, simulación de consensos y procesamiento analítico en tiempo real (Proyecto Personal).*
+- **Sistemas Distribuidos & Concurrencia Multilenguaje:** Núcleo de red y motor de libro mayor desarrollado en **Rust**, desacoplado de una capa de ingesta e indexación de alta velocidad en **Go** y bots de simulación cuantitativa en **Python**.
+- **Consenso & Registro Criptográfico:** Implementación de protocolos de propagación de datos (*Gossip Protocol*), generación de bloques con hashing inmutable y verificación de integridad transaccional en un entorno descentralizado.
+- **Observabilidad & Simulación de Nube:** Infraestructura totalmente containerizada instrumentada con **Prometheus** y **Grafana** (Observabilidad como Código), junto con emulación de servicios cloud **AWS (Floci/S3/RDS)** provistos mediante **Terraform** y despliegues en **Kubernetes (k3s/Helm)**.
+
+#### 🌐 Arquitectura de Red, Indexación y Métricas de Alto Rendimiento
+
+| 🕸️ 1. Libro Mayor & Ingesta Distribuida | 📊 2. Telemetría & Observabilidad en Tiempo Real |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/TU_ASSET_KESTREL_1.png" width="450px" alt="KestrelMesh Architecture"/> | <img src="https://github.com/user-attachments/assets/TU_ASSET_KESTREL_2.png" width="450px" alt="KestrelMesh Observability"/> |
+| *Protocolo P2P en Rust con sincronización asíncrona hacia la capa de indexación en Go y PostgreSQL.* | *Monitoreo de bloques por segundo, latencia de red y métricas del libro mayor instrumentadas en Grafana.* |
+
+| ⚙️ 3. Simulación Cuantitativa & Bots de Arbitraje | ☁️ 4. Infraestructura Cloud como Código (IaC) |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/TU_ASSET_KESTREL_3.png" width="450px" alt="KestrelMesh Bots"/> | <img src="https://github.com/user-attachments/assets/TU_ASSET_KESTREL_4.png" width="450px" alt="KestrelMesh Infrastructure"/> |
+| *Generador de tráfico y agentes de arbitraje en Python validando la liquidez y convergencia de estados.* | *Aprovisionamiento emulado de servicios AWS con Terraform, S3 y despliegue sobre Kubernetes.* |
+
+---
+
 ### 📊 EcoDash & Epicoo | Motor de Inteligencia Ambiental corporativo (Caso de Éxito Empresarial)
 *Diseño arquitectónico y consultoría técnica para la automatización e ingesta de métricas de Huella de Carbono y circularidad ESG en CommunityLab S.A.S.*
 * **Sistemas Cloud Tolerantes a Fallos:** Lideré el despliegue de la arquitectura del ecosistema en **AWS**, configurando políticas de auto-escalado y alta disponibilidad para soportar la ingesta concurrente de datos analíticos masivos.
