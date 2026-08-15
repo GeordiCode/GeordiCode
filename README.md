@@ -52,7 +52,7 @@
 
 | 📊 1. Dashboard Principal & Acción de Precios | 🔗 2. Explorador de Bloques (Ledger) |
 | :---: | :---: |
-| <img src="dashboard.png" width="450px" alt="Dashboard Principal"/> | <img src="dashboard2.png" width="450px" alt="Explorador de Bloques"/> |
+| <img src="https://github.com/user-attachments/assets/33db4e0d-e614-44ec-9e26-f1feac7748d9" width="450px" alt="Dashboard Principal"/> | <img src="https://github.com/user-attachments/assets/b4bfc8ce-b515-49b6-805e-5d24e3e533c6" width="450px" alt="Explorador de Bloques"/> |
 | *Métricas operativas del motor, gráfico de acción de precios y distribución de beneficios por token.* | *Registro inmutable de transacciones y explorador de bloques procesados en tiempo real.* |
 
 | 💰 3. Saldos de Cuentas & Tokens | 🌊 4. Reservas de Pools de Liquidez |
