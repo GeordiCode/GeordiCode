@@ -62,12 +62,12 @@
 
 | 🏊 5. Ecosistema de Pools Activas | ⚡ 6. Historial de Ejecución de Arbitraje |
 | :---: | :---: |
-| <img src="LiquidPool2.png" width="450px" alt="Ecosistema de Pools"/> | <img src="arbitrage.png" width="450px" alt="Historial de Arbitraje"/> |
+| <img src="https://github.com/user-attachments/assets/499be3cf-fb92-451b-98e8-1aebaaf3484d" width="450px" alt="Ecosistema de Pools"/> | <img src="https://github.com/user-attachments/assets/3113a3e6-bef7-4492-b3d8-30da8c88831d" width="450px" alt="Historial de Arbitraje"/> |
 | *Vista general de ratios de balance e intercambios activos en el protocolo.* | *Registro de ejecuciones triangulares y flujo dinámico del enrutamiento de liquidez.* |
 
 | ⚙️ 7. Parámetros & Configuración del Bot | 🛡️ 8. Estado de Infraestructura & Auditoría |
 | :---: | :---: |
-| <img src="botSettings.png" width="450px" alt="Configuración del Bot"/> | <img src="profile.png" width="450px" alt="Perfil e Infraestructura"/> |
+| <img src="https://github.com/user-attachments/assets/83e4b84e-5815-475d-8117-9581274d349d" width="450px" alt="Configuración del Bot"/> | <img src="https://github.com/user-attachments/assets/78e4a4b9-bf5a-4ef1-b1e4-65749048851b" width="450px" alt="Perfil e Infraestructura"/> |
 | *Control de tolerancia de slippage, estrategias de gas y consola de telemetría en vivo.* | *Métricas de salud de los nodos (Rust, Indexer, PostgreSQL) y logs de seguridad.* |
 
 ---
